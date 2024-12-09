@@ -64,6 +64,27 @@
                 "url": "https://iniche.cn/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1731150155624,
+            "title": "路由器",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731150146019,
+                "title": "padavan",
+                "icon": "https://logo.clearbit.com/opt.cn2qq.com",
+                "url": "https://opt.cn2qq.com/padavan/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731219700093,
+                "title": "Linux使用davfs2挂载webdav作为本地磁盘并实现自动挂载 | 云匿博客",
+                "icon": "https://logo.clearbit.com/www.yunieebk.com",
+                "url": "https://www.yunieebk.com/davfs2/"
+              }
+            ]
           }
         ]
       },
@@ -100,57 +121,15 @@
               },
               {
                 "type": "link",
-                "addDate": 1640402486290,
-                "title": "创造者日报 - 每天发现有趣的产品",
-                "icon": "https://logo.clearbit.com/creatorsdaily.com",
-                "url": "https://creatorsdaily.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1641653298564,
-                "title": "kindle-书享家",
-                "icon": "https://logo.clearbit.com/shuxiangjia.cn",
-                "url": "https://shuxiangjia.cn/"
-              },
-              {
-                "type": "link",
                 "addDate": 1586167064942,
-                "title": "狼牌工作网址导航 - 导航",
+                "title": "狼牌工作网址 导航",
                 "icon": "https://logo.clearbit.com/www.volf.club",
                 "url": "https://www.volf.club/"
               },
               {
                 "type": "link",
-                "addDate": 1641871258095,
-                "title": "简单导航 - 让导航更简单！",
-                "icon": "https://logo.clearbit.com/nav.simpsearch.com",
-                "url": "https://nav.simpsearch.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1640942150116,
-                "title": "404导航 | 只导航优质资源！",
-                "icon": "https://logo.clearbit.com/www.404dh.icu",
-                "url": "https://www.404dh.icu/"
-              },
-              {
-                "type": "link",
-                "addDate": 1640942179042,
-                "title": "打假导航-我的个人网址导航",
-                "icon": "https://logo.clearbit.com/www.dajiadaohang.com",
-                "url": "http://www.dajiadaohang.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1639922953121,
-                "title": "八千网址导航 ",
-                "icon": "https://logo.clearbit.com/www.8kmm.com",
-                "url": "https://www.8kmm.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1640420601332,
-                "title": "菜鸟驿站常用网址",
+                "title": "AI导航ibbuu",
                 "icon": "https://logo.clearbit.com/ibbuu.com",
                 "url": "https://ibbuu.com/"
               },
@@ -216,6 +195,13 @@
                 "title": "Wallhaven官网 — 高质量高清壁纸资源网站，二次元风格 | Tbox导航",
                 "icon": "https://logo.clearbit.com/www.tboxn.com",
                 "url": "https://www.tboxn.com/sites/522.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1723462999884,
+                "title": "仙女次元 | ACGCN欢迎仙女回家",
+                "icon": "https://logo.clearbit.com/xn.xncy.org",
+                "url": "https://xn.xncy.org/"
               }
             ]
           },
@@ -324,6 +310,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1733330895073,
+                "title": "B站空降助手 - 精准跳过恰饭广告",
+                "icon": "https://logo.clearbit.com/www.bsbsb.top",
+                "url": "https://www.bsbsb.top/"
+              },
+              {
+                "type": "link",
                 "addDate": 1640424955471,
                 "title": "小舒同学",
                 "icon": "https://logo.clearbit.com/xiaoshu.app",
@@ -378,6 +371,13 @@
             "addDate": 1637508237961,
             "title": "R-软件官网",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1733330863278,
+                "title": "CrossPaste",
+                "icon": "https://logo.clearbit.com/crosspaste.com",
+                "url": "https://crosspaste.com/"
+              },
               {
                 "type": "link",
                 "addDate": 1625232546191,
@@ -456,41 +456,6 @@
                 "url": "https://windsys.win/"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1592491913751,
-            "title": "比特彗星-BitComet",
-            "icon": "https://logo.clearbit.com/www.lanzoux.com",
-            "url": "https://www.lanzoux.com/b073c7g4f"
-          },
-          {
-            "type": "link",
-            "addDate": 1594791044155,
-            "title": "超音速的小站 塞班",
-            "icon": "https://logo.clearbit.com/chaoyinsu.ys168.com",
-            "url": "http://chaoyinsu.ys168.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1611037195837,
-            "title": "磁贴美化小工具",
-            "icon": "https://logo.clearbit.com/xiu.lanzoux.com",
-            "url": "https://xiu.lanzoux.com/b0sp46eh"
-          },
-          {
-            "type": "link",
-            "addDate": 1590804287226,
-            "title": "M260宏",
-            "icon": "https://logo.clearbit.com/ww12.lanzoux.com",
-            "url": "https://ww12.lanzoux.com/i6wjqeh?usid=24&utid=8596549949"
-          },
-          {
-            "type": "link",
-            "addDate": 1689761786965,
-            "title": "LinuxMirrors 让换源更简单",
-            "icon": "https://logo.clearbit.com/linuxmirrors.cn",
-            "url": "https://linuxmirrors.cn/"
           },
           {
             "type": "folder",
@@ -622,8 +587,57 @@
                 "title": "软仓丨RuanCang.Net",
                 "icon": "https://logo.clearbit.com/www.ruancang.net",
                 "url": "https://www.ruancang.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724850914541,
+                "title": "异次元软件世界 - 软件改变生活！",
+                "icon": "https://logo.clearbit.com/www.iplaysoft.com",
+                "url": "https://www.iplaysoft.com/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1592491913751,
+            "title": "比特彗星-BitComet",
+            "icon": "https://logo.clearbit.com/www.lanzoux.com",
+            "url": "https://www.lanzoux.com/b073c7g4f"
+          },
+          {
+            "type": "link",
+            "addDate": 1594791044155,
+            "title": "超音速的小站 塞班",
+            "icon": "https://logo.clearbit.com/chaoyinsu.ys168.com",
+            "url": "http://chaoyinsu.ys168.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1611037195837,
+            "title": "磁贴美化小工具",
+            "icon": "https://logo.clearbit.com/xiu.lanzoux.com",
+            "url": "https://xiu.lanzoux.com/b0sp46eh"
+          },
+          {
+            "type": "link",
+            "addDate": 1590804287226,
+            "title": "M260宏",
+            "icon": "https://logo.clearbit.com/ww12.lanzoux.com",
+            "url": "https://ww12.lanzoux.com/i6wjqeh?usid=24&utid=8596549949"
+          },
+          {
+            "type": "link",
+            "addDate": 1689761786965,
+            "title": "LinuxMirrors 让换源更简单",
+            "icon": "https://logo.clearbit.com/linuxmirrors.cn",
+            "url": "https://linuxmirrors.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733668815496,
+            "title": "adguard",
+            "icon": "https://logo.clearbit.com/www.lanzouj.com",
+            "url": "https://www.lanzouj.com/b0d93zgb"
           }
         ]
       },
@@ -634,23 +648,72 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1676293948618,
-            "title": "详解肖特基二极管的作用及接法",
-            "icon": "https://logo.clearbit.com/www.kiaic.com",
-            "url": "http://www.kiaic.com/article/detail/1947.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1676293778575,
-            "title": "电源&电力 分论坛帖子清单 (amobbs.com 阿莫电子论坛 - 东莞阿莫电子网站)",
-            "icon": "https://logo.clearbit.com/www.amobbs.com",
-            "url": "https://www.amobbs.com/forum-3044-1.html"
+            "addDate": 1723469457578,
+            "title": "症状 - 《默沙东诊疗手册大众版》",
+            "icon": "https://logo.clearbit.com/www.msdmanuals.cn",
+            "url": "https://www.msdmanuals.cn/home/symptoms"
           },
           {
             "type": "folder",
             "addDate": 1640422834416,
             "title": "教程",
             "children": [
+              {
+                "type": "link",
+                "addDate": 1723208185447,
+                "title": "最佳实践 | Elog",
+                "icon": "https://logo.clearbit.com/elog.1874.cool",
+                "url": "https://elog.1874.cool/notion/ubcut43kgf97fag6"
+              },
+              {
+                "type": "link",
+                "addDate": 1707643923027,
+                "title": "GA-78LMT-S2P （Rev. 3.1） - 支持 |技嘉主板",
+                "icon": "https://logo.clearbit.com/gigabyte-data.com",
+                "url": "https://gigabyte-data.com/products/page/mb/ga-78lmt-s2prev_31/support#support-dl"
+              },
+              {
+                "type": "link",
+                "addDate": 1731255059839,
+                "title": "腾讯极光盒子3c免刷机更换桌面的方法_腾讯极光盒子_ZNDS - 手机版",
+                "icon": "https://logo.clearbit.com/www.znds.com",
+                "url": "https://www.znds.com/tv-1252271-1-1.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1731110612760,
+                "title": "小米路由器4A千兆版刷openWRT保姆级教程-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/u013488276/article/details/141136009"
+              },
+              {
+                "type": "link",
+                "addDate": 1733539958900,
+                "title": "用 DropIt 打造全自动的 Windows 文件管理体系 - 少数派",
+                "icon": "https://logo.clearbit.com/sspai.com",
+                "url": "https://sspai.com/post/45532"
+              },
+              {
+                "type": "link",
+                "addDate": 1723469511994,
+                "title": "Enjoy App",
+                "icon": "https://logo.clearbit.com/1000h.org",
+                "url": "https://1000h.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723704505735,
+                "title": "obsidian新手不完全指南 - 经验分享 - Obsidian 中文论坛",
+                "icon": "https://logo.clearbit.com/forum-zh.obsidian.md",
+                "url": "https://forum-zh.obsidian.md/t/topic/1628"
+              },
+              {
+                "type": "link",
+                "addDate": 1723486844530,
+                "title": "wikiHow：你可以信赖的万事指南",
+                "icon": "https://logo.clearbit.com/zh.wikihow.com",
+                "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+              },
               {
                 "type": "link",
                 "addDate": 1635870425415,
@@ -729,6 +792,20 @@
                 "url": "https://zhuanlan.zhihu.com/p/569657780"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1676293948618,
+            "title": "详解肖特基二极管的作用及接法",
+            "icon": "https://logo.clearbit.com/www.kiaic.com",
+            "url": "http://www.kiaic.com/article/detail/1947.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1676293778575,
+            "title": "电源&电力 分论坛帖子清单 (amobbs.com 阿莫电子论坛 - 东莞阿莫电子网站)",
+            "icon": "https://logo.clearbit.com/www.amobbs.com",
+            "url": "https://www.amobbs.com/forum-3044-1.html"
           },
           {
             "type": "link",
@@ -834,6 +911,27 @@
             "title": "老苏的blog - 聚沙成塔，集腋成裘",
             "icon": "https://logo.clearbit.com/laosu.cf",
             "url": "https://laosu.cf/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1733760919882,
+            "title": "性教育",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723469327897,
+                "title": "KnowSex",
+                "icon": "https://logo.clearbit.com/knowsex.net",
+                "url": "https://knowsex.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723469334527,
+                "title": "访问 KnowSex",
+                "icon": "https://logo.clearbit.com/xingjiaoyu.net",
+                "url": "https://xingjiaoyu.net/"
+              }
+            ]
           }
         ]
       },
@@ -942,6 +1040,118 @@
                     "title": "Wallpapers · GTGRAPHICS",
                     "icon": "https://logo.clearbit.com/gtgraphics.de",
                     "url": "https://gtgraphics.de/en/wallpapers"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723465770192,
+                    "title": "宇宙星空 | ESO",
+                    "icon": "https://logo.clearbit.com/www.eso.org",
+                    "url": "https://www.eso.org/public/images/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723466326643,
+                    "title": "Full HD, HDTV, 1080p 16:9 女子壁纸Full HD, HDTV, 1080p 16:9下载可爱和好看的图片 1920x1080 免费下载",
+                    "icon": "https://logo.clearbit.com/wallspic.com",
+                    "url": "https://wallspic.com/cn/album/for_girls/1920x1080"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723466398432,
+                    "title": "Psiu Puxa Wallpapers|NASA宇宙壁纸",
+                    "icon": "https://logo.clearbit.com/psiupuxa.com",
+                    "url": "https://psiupuxa.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723466460684,
+                    "title": "WallHere 壁纸库",
+                    "icon": "https://logo.clearbit.com/wallhere.com",
+                    "url": "https://wallhere.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723466482124,
+                    "title": "Papers.co - Best wallpapers",
+                    "icon": "https://logo.clearbit.com/papers.co",
+                    "url": "https://papers.co/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723479103420,
+                    "title": "Vave BG - Unsplash but for background",
+                    "icon": "https://logo.clearbit.com/vavebg.com",
+                    "url": "https://vavebg.com/?ref=www.8kmm.com"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723479118946,
+                    "title": "Microsoft Design - Wallpapers",
+                    "icon": "https://logo.clearbit.com/wallpapers.microsoft.design",
+                    "url": "https://wallpapers.microsoft.design/?ref=www.8kmm.com"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723479147210,
+                    "title": "花猫壁纸 - 在这里不只有壁纸等你发现 - 致力打造属于年轻人的世界",
+                    "icon": "https://logo.clearbit.com/huamaobizhi.com",
+                    "url": "https://huamaobizhi.com/?ref=huamao.vip"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723479763257,
+                    "title": "彼岸图",
+                    "icon": "https://logo.clearbit.com/pic.netbian.top",
+                    "url": "https://pic.netbian.top/?ref=huamao.vip"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723482078710,
+                    "title": "高清壁纸网 - 带鱼屏,宽屏,双屏,三屏,2K,4K,5K,8K,12K超清无水印壁纸下载",
+                    "icon": "https://logo.clearbit.com/www.hdbz.top",
+                    "url": "https://www.hdbz.top/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723483765259,
+                    "title": "地球上最美丽的城市和角落的球形航空全景图、照片和 360° 虚拟游览，世界各地的 360° 全景图 --- Сферические aэропанорамы, фотографии и 360° виртуальные туры самых красивых городов и уголков нашей планеты, 360° панорамы вокруг света",
+                    "icon": "https://logo.clearbit.com/www.airpano.ru",
+                    "url": "https://www.airpano.ru/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723485783457,
+                    "title": "最新壁纸 360壁纸 NET牛人",
+                    "icon": "https://logo.clearbit.com/ss.netnr.com",
+                    "url": "https://ss.netnr.com/wallpaper"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723486697723,
+                    "title": "美丽壁纸上的励志名言 - QuoteFancy --- Inspirational Quotes on Beautiful Wallpapers - QuoteFancy",
+                    "icon": "https://logo.clearbit.com/quotefancy.com",
+                    "url": "https://quotefancy.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723486711536,
+                    "title": "壁纸洞穴 --- Wallpaper Cave",
+                    "icon": "https://logo.clearbit.com/wallpapercave.com",
+                    "url": "https://wallpapercave.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723486787395,
+                    "title": "Chromecast 背景图像 --- Chromecast Background Images",
+                    "icon": "https://logo.clearbit.com/chromecastbg.alexmeub.com",
+                    "url": "https://chromecastbg.alexmeub.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723486897220,
+                    "title": "鹿児島県 | 海の見える駅",
+                    "icon": "https://logo.clearbit.com/seaside-station.com",
+                    "url": "https://seaside-station.com/region/kagoshima/"
                   }
                 ]
               },
@@ -963,6 +1173,48 @@
                     "title": "cc0 图片网",
                     "icon": "https://logo.clearbit.com/cc0.cn",
                     "url": "https://cc0.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723465916708,
+                    "title": "免费照片和图片 - StockSnap.io --- Free Stock Photos and Images - StockSnap.io",
+                    "icon": "https://logo.clearbit.com/stocksnap.io",
+                    "url": "https://stocksnap.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723466286041,
+                    "title": "AI无版权作品",
+                    "icon": "https://logo.clearbit.com/freeflo.ai",
+                    "url": "https://freeflo.ai/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723485844992,
+                    "title": "免费素材图片",
+                    "icon": "https://logo.clearbit.com/www.pexels.com",
+                    "url": "https://www.pexels.com/zh-cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723487064092,
+                    "title": "免费版权图片一键搜索 - 搜图神器",
+                    "icon": "https://logo.clearbit.com/www.logosc.cn",
+                    "url": "https://www.logosc.cn/so/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723487069451,
+                    "title": "免费正版高清图片素材库 超过4.9百万张优质图片和视频素材可供免费使用和下载 - Pixabay - Pixabay",
+                    "icon": "https://logo.clearbit.com/pixabay.com",
+                    "url": "https://pixabay.com/zh/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723488150846,
+                    "title": "首页 - colorhub.me(调色板) - 高清无版权图片，个人和商业用途免费",
+                    "icon": "https://logo.clearbit.com/colorhub.me",
+                    "url": "https://colorhub.me/"
                   }
                 ]
               },
@@ -1012,8 +1264,36 @@
                     "title": "loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator",
                     "icon": "https://logo.clearbit.com/loading.io",
                     "url": "https://loading.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1723467330254,
+                    "title": "8,425,000+ free and premium vector icons, illustrations and 3D illustrations",
+                    "icon": "https://logo.clearbit.com/www.iconfinder.com",
+                    "url": "https://www.iconfinder.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732978568803,
+                    "title": "Free Self-Hosted App Icons",
+                    "icon": "https://logo.clearbit.com/pipuwong.com",
+                    "url": "https://pipuwong.com/en/free-icons-for-self-hosted/"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1723465261337,
+                "title": "惜染图库-网友的图盘网盘",
+                "icon": "https://logo.clearbit.com/hefollo.com",
+                "url": "https://hefollo.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723477491840,
+                "title": "绘画和绘画 – 加勒里克斯在线博物馆",
+                "icon": "https://logo.clearbit.com/gallerix.asia",
+                "url": "https://gallerix.asia/"
               }
             ]
           },
@@ -1028,13 +1308,6 @@
                 "title": "熊猫无损音乐",
                 "icon": "https://logo.clearbit.com/www.xmwav.com",
                 "url": "https://www.xmwav.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1643543845634,
-                "title": "免费的无损音乐下载网站",
-                "icon": "https://logo.clearbit.com/www.wsyyxz.com",
-                "url": "https://www.wsyyxz.com/"
               },
               {
                 "type": "link",
@@ -1056,13 +1329,6 @@
                 "title": "小森平的免费下载音效",
                 "icon": "https://logo.clearbit.com/taira-komori.jpn.org",
                 "url": "https://taira-komori.jpn.org/freesoundcn.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1704871085668,
-                "title": "下歌吧 - 全网音乐 高品质MP3 在线免费下载 免费播放",
-                "icon": "https://logo.clearbit.com/xiageba.com",
-                "url": "https://xiageba.com/"
               },
               {
                 "type": "link",
@@ -1280,6 +1546,13 @@
                 "title": "盘Ta|我有账号",
                 "icon": "https://logo.clearbit.com/www.91panta.cn",
                 "url": "https://www.91panta.cn/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1729845279118,
+                "title": "搜大宝-云盘资源分享社区",
+                "icon": "https://logo.clearbit.com/soudadao.com",
+                "url": "https://soudadao.com/"
               }
             ]
           },
@@ -1336,6 +1609,13 @@
                 "title": "雷: zi.tools",
                 "icon": "https://logo.clearbit.com/zi.tools",
                 "url": "https://zi.tools/zi/%E9%9B%B7?secondary=yin"
+              },
+              {
+                "type": "link",
+                "addDate": 1641653298564,
+                "title": "小说下载|书享家",
+                "icon": "https://logo.clearbit.com/shuxiangjia.cn",
+                "url": "https://shuxiangjia.cn/"
               }
             ]
           },
@@ -1381,6 +1661,48 @@
         "addDate": 1716812819892,
         "title": "✨云操",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732414366349,
+            "title": "NewsNow | 最热",
+            "icon": "https://logo.clearbit.com/hot.ittools.cc",
+            "url": "https://hot.ittools.cc/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733331527347,
+            "title": "Git游戏-gityx.com-文字放置摸鱼挂机游戏大全",
+            "icon": "https://logo.clearbit.com/gityx.com",
+            "url": "https://gityx.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723472724625,
+            "title": "12日 8月，18:00 | 31°北 104.9°東 | Zoom Earth",
+            "icon": "https://logo.clearbit.com/zoom.earth",
+            "url": "https://zoom.earth/maps/satellite/#view=31.00637,104.9397,8z/date=2024-08-12,18:00,+8"
+          },
+          {
+            "type": "link",
+            "addDate": 1723469058123,
+            "title": "Home | JustLaws",
+            "icon": "https://logo.clearbit.com/www.justlaws.cn",
+            "url": "https://www.justlaws.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723486794002,
+            "title": "數位方輿 Reading Digital Atlas",
+            "icon": "https://logo.clearbit.com/digitalatlas.asdc.sinica.edu.tw",
+            "url": "https://digitalatlas.asdc.sinica.edu.tw/index.jsp"
+          },
+          {
+            "type": "link",
+            "addDate": 1723472416407,
+            "title": "Ventusky - 风雨气温图",
+            "icon": "https://logo.clearbit.com/www.ventusky.com",
+            "url": "https://www.ventusky.com/"
+          },
           {
             "type": "folder",
             "addDate": 1640424596842,
@@ -1549,13 +1871,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1723038157611,
-                "title": "Image Upload - SM.MS - Simple Free Image Hosting",
-                "icon": "https://logo.clearbit.com/sm.ms",
-                "url": "https://sm.ms/"
-              },
-              {
-                "type": "link",
                 "addDate": 1723038150836,
                 "title": "Welcome to Image Hosting -",
                 "icon": "https://logo.clearbit.com/www.lu.free.fr",
@@ -1567,6 +1882,104 @@
                 "title": "Rainfield (rainfield) - 路过图床",
                 "icon": "https://logo.clearbit.com/imgse.com",
                 "url": "https://imgse.com/rainfield"
+              },
+              {
+                "type": "link",
+                "addDate": 1723463365788,
+                "title": "聚合图床 - 免费5张图片上传",
+                "icon": "https://logo.clearbit.com/www.superbed.cn",
+                "url": "https://www.superbed.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723465087152,
+                "title": "Image Upload - SM.MS - Simple Free Image Hosting",
+                "icon": "https://logo.clearbit.com/smms.app",
+                "url": "https://smms.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466517318,
+                "title": "imgur -  (简体中文)",
+                "icon": "https://logo.clearbit.com/imgur.la",
+                "url": "https://imgur.la/?lang=zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466531861,
+                "title": "IMGDD - Image Direct Delivery",
+                "icon": "https://logo.clearbit.com/imgdd.com",
+                "url": "https://imgdd.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466542759,
+                "title": "IMG图床",
+                "icon": "https://logo.clearbit.com/imgimg.cc",
+                "url": "https://imgimg.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466643186,
+                "title": "绿色图床",
+                "icon": "https://logo.clearbit.com/lvse.eu.org",
+                "url": "https://lvse.eu.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466696713,
+                "title": "电报图床 - 【外网】",
+                "icon": "https://logo.clearbit.com/yunimg.cc",
+                "url": "https://yunimg.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466728086,
+                "title": "ImageHub - 图仓 - 免费图床，提供免费图片托管服务",
+                "icon": "https://logo.clearbit.com/www.imagehub.cc",
+                "url": "https://www.imagehub.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466749249,
+                "title": "图片映客|注册登录",
+                "icon": "https://logo.clearbit.com/img.ink",
+                "url": "https://img.ink/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466848192,
+                "title": "ipfs图床.|去中心化",
+                "icon": "https://logo.clearbit.com/cdn.ipfsscan.io",
+                "url": "https://cdn.ipfsscan.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723466878528,
+                "title": "Dooong 公益图床 - 你用过最快的公益图床",
+                "icon": "https://logo.clearbit.com/image.dooo.ng",
+                "url": "https://image.dooo.ng/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479679887,
+                "title": "MoeTu - 一个拥有全球 CDN 支持 HTTPS 的免费的图床",
+                "icon": "https://logo.clearbit.com/moetu.org",
+                "url": "https://moetu.org/?ref=huamao.vip"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479904623,
+                "title": "闪电图床",
+                "icon": "https://logo.clearbit.com/www.boltp.com",
+                "url": "https://www.boltp.com/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1723480008094,
+                "title": "图壳，图片最稳定的家 | 免费、安全、可靠图床",
+                "icon": "https://logo.clearbit.com/imgkr.com",
+                "url": "https://imgkr.com/?ref=huamao.vip"
               }
             ]
           },
@@ -1805,6 +2218,118 @@
                 "title": "freeapi-公益",
                 "icon": "https://logo.clearbit.com/freeapi.aiiz.cc",
                 "url": "https://freeapi.aiiz.cc/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1723475247297,
+                "title": "DeepSeek",
+                "icon": "https://logo.clearbit.com/chat.deepseek.com",
+                "url": "https://chat.deepseek.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723475607226,
+                "title": "ai网页 --- Wegic",
+                "icon": "https://logo.clearbit.com/wegic.ai",
+                "url": "https://wegic.ai/app/1823014709021769730?fromHome=Official_website_header"
+              },
+              {
+                "type": "link",
+                "addDate": 1723475646875,
+                "title": "九歌——人工智能诗歌写作系统",
+                "icon": "https://logo.clearbit.com/jiuge.thunlp.org",
+                "url": "https://jiuge.thunlp.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723475706653,
+                "title": "MyLens|时间轴",
+                "icon": "https://logo.clearbit.com/mylens.ai",
+                "url": "https://mylens.ai/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1723476312801,
+                "title": "ARC官网-腾讯",
+                "icon": "https://logo.clearbit.com/arc.tencent.com",
+                "url": "https://arc.tencent.com/zh/ai-demos/imgRestore"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479216590,
+                "title": "腾讯元宝",
+                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                "url": "https://yuanbao.tencent.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479244640,
+                "title": "扣子 - AI 智能体开发平台",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/?cate_type=category&cate_value=7363596783919988776"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479253939,
+                "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/desk?b=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479263264,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479284317,
+                "title": "AI助手360",
+                "icon": "https://logo.clearbit.com/bot.360.com",
+                "url": "https://bot.360.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479300413,
+                "title": "知乎直答",
+                "icon": "https://logo.clearbit.com/zhida.zhihu.com",
+                "url": "https://zhida.zhihu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479322015,
+                "title": "腾讯混元生图",
+                "icon": "https://logo.clearbit.com/image.hunyuan.tencent.com",
+                "url": "https://image.hunyuan.tencent.com/forbid?redirect=https://image.hunyuan.tencent.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723479351364,
+                "title": "天工智码SkyCode",
+                "icon": "https://logo.clearbit.com/sky-code.singularity-ai.com",
+                "url": "https://sky-code.singularity-ai.com/index.html#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724719640444,
+                "title": "腾讯元宝",
+                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                "url": "https://yuanbao.tencent.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1724719657015,
+                "title": "AI应用集 - AI应用商店（人工智能APP安卓和iOS免费下载） | AI工具集",
+                "icon": "https://logo.clearbit.com/ai-bot.cn",
+                "url": "https://ai-bot.cn/ai-app-store/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726972121070,
+                "title": "TabMate-AI辅助整理浏览器标签",
+                "icon": "https://logo.clearbit.com/www.aibase.com",
+                "url": "https://www.aibase.com/zh/tool/27311"
               }
             ]
           },
@@ -1826,6 +2351,13 @@
                 "title": "YM-API",
                 "icon": "https://logo.clearbit.com/img-api.ymz.icu",
                 "url": "https://img-api.ymz.icu/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723465956251,
+                "title": "random (5333×3796)",
+                "icon": "https://logo.clearbit.com/api.ikun.best",
+                "url": "https://api.ikun.best/random/"
               }
             ]
           },
@@ -1968,6 +2500,160 @@
             "title": "2017年后英雄联盟数据",
             "icon": "https://logo.clearbit.com/www.communitydragon.org",
             "url": "https://www.communitydragon.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723475015065,
+            "title": "图片隐写加密／解密",
+            "icon": "https://logo.clearbit.com/c.p2hp.com",
+            "url": "https://c.p2hp.com/yinxietu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723475027582,
+            "title": "与熊论道/熊曰加密 - 萌研社 - PcMoe!",
+            "icon": "https://logo.clearbit.com/hi.pcmoe.net",
+            "url": "http://hi.pcmoe.net/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1723475068504,
+            "title": "连花清瘟配方表加解密工具",
+            "icon": "https://logo.clearbit.com/afyi.github.io",
+            "url": "https://afyi.github.io/lhqw/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723475831200,
+            "title": "Icon Maker by Raycast",
+            "icon": "https://logo.clearbit.com/ray.so",
+            "url": "https://ray.so/icon"
+          },
+          {
+            "type": "link",
+            "addDate": 1723475990962,
+            "title": "Logo maker — Make logo with 200,000 SVG icons",
+            "icon": "https://logo.clearbit.com/iconbuddy.com",
+            "url": "https://iconbuddy.com/logo-maker"
+          },
+          {
+            "type": "link",
+            "addDate": 1723476002732,
+            "title": "卡片制作",
+            "icon": "https://logo.clearbit.com/retro.iwhy.dev",
+            "url": "https://retro.iwhy.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723476048489,
+            "title": "搞定含噪和质量下降的图像 - Pix Fix",
+            "icon": "https://logo.clearbit.com/zh.pixfix.com",
+            "url": "https://zh.pixfix.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723476298328,
+            "title": "logoko.标点狗",
+            "icon": "https://logo.clearbit.com/www.logoko.com.cn",
+            "url": "https://www.logoko.com.cn/design"
+          },
+          {
+            "type": "link",
+            "addDate": 1723476322587,
+            "title": "证件照换底色，在线证件照换底色，一键证件照换底色",
+            "icon": "https://logo.clearbit.com/www.bgconverter.com",
+            "url": "https://www.bgconverter.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723476945260,
+            "title": "谐音工具 - 文案狗 | 给文案狗一点灵感!",
+            "icon": "https://logo.clearbit.com/www.wenangou.com",
+            "url": "http://www.wenangou.com/xieyin.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1723477228800,
+            "title": "蒸 気 機 - 蒸汽波 - 蒸汽波图片生成器 - 虚拟信号风格化影像后期工具",
+            "icon": "https://logo.clearbit.com/magiconch.com",
+            "url": "https://magiconch.com/vaporwave/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723477461421,
+            "title": "朋友圈转发截图生成工具",
+            "icon": "https://logo.clearbit.com/akarin.dev",
+            "url": "https://akarin.dev/WechatMomentScreenshot/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723477767277,
+            "title": "宝可梦杂交大师",
+            "icon": "https://logo.clearbit.com/pokemon.alexonsager.net",
+            "url": "https://pokemon.alexonsager.net/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1723477804065,
+            "title": "PhotoMosh",
+            "icon": "https://logo.clearbit.com/photomosh.com",
+            "url": "https://photomosh.com/app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723486302146,
+            "title": "鸡毛信",
+            "icon": "https://logo.clearbit.com/cmd.im",
+            "url": "https://cmd.im/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723486339372,
+            "title": "淘口令解析 - 淘口令解密 - 淘口令还原 - 永久免费不限制 - 淘口令网",
+            "icon": "https://logo.clearbit.com/www.taokouling.com",
+            "url": "https://www.taokouling.com/index/taobao_tkljm"
+          },
+          {
+            "type": "link",
+            "addDate": 1723486343826,
+            "title": "ColorSpace - Color Palettes Generator and Color Gradient Tool",
+            "icon": "https://logo.clearbit.com/mycolor.space",
+            "url": "https://mycolor.space/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723487505970,
+            "title": "双色调 || Create Beautiful Free Duotones",
+            "icon": "https://logo.clearbit.com/duotone.shapefactory.co",
+            "url": "https://duotone.shapefactory.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723487613610,
+            "title": "立即取消订阅电子邮件 - Unroll.Me --- Unsubscribe from emails, instantly - Unroll.Me",
+            "icon": "https://logo.clearbit.com/unroll.me",
+            "url": "https://unroll.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723908850844,
+            "title": "今日热榜 - 汇聚全网热点，热门尽览无余",
+            "icon": "https://logo.clearbit.com/hot.imsyy.top",
+            "url": "https://hot.imsyy.top/bilibili?limit=20#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724157320975,
+            "title": "故梦API - 免费开放的API接口",
+            "icon": "https://logo.clearbit.com/api.gumengya.com",
+            "url": "https://api.gumengya.com/Docs#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729906103101,
+            "title": "网易DNS检测工具",
+            "icon": "https://logo.clearbit.com/nstool.netease.com",
+            "url": "https://nstool.netease.com/"
           }
         ]
       },
@@ -1976,6 +2662,20 @@
         "addDate": 1612262186472,
         "title": "🏫学库",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1723476978230,
+            "title": "系列影片 - 重现化学",
+            "icon": "https://logo.clearbit.com/www.envisioningchemistry.cn",
+            "url": "https://www.envisioningchemistry.cn/ecfilms"
+          },
+          {
+            "type": "link",
+            "addDate": 1723474136879,
+            "title": "消费降级，寻找平替产品！",
+            "icon": "https://logo.clearbit.com/cheapthing.netlify.app",
+            "url": "https://cheapthing.netlify.app/"
+          },
           {
             "type": "folder",
             "addDate": 1648039306526,
@@ -2299,6 +2999,13 @@
         "title": "🐏羊毛",
         "children": [
           {
+            "type": "link",
+            "addDate": 1723468567165,
+            "title": "GetApp - AppStore限时免费应用,免费应用榜,付费应用榜,销量榜",
+            "icon": "https://logo.clearbit.com/app.whatshub.top",
+            "url": "https://app.whatshub.top/"
+          },
+          {
             "type": "folder",
             "addDate": 1625225758046,
             "title": "接码",
@@ -2370,10 +3077,31 @@
           },
           {
             "type": "link",
-            "addDate": 1682353779729,
-            "title": "GitHub - 6dylan6/jdpro: 青龙脚本库",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/6dylan6/jdpro"
+            "addDate": 1728976938489,
+            "title": "Linux系统运行环境搭建（宝塔面板部署） · 码蚁成绩统计系统使用手册 · 看云",
+            "icon": "https://logo.clearbit.com/www.kancloud.cn",
+            "url": "https://www.kancloud.cn/llblax/abcd/3010150"
+          },
+          {
+            "type": "link",
+            "addDate": 1729125830299,
+            "title": "酷元素-好玩的元素周期表,高清无水印元素周期表",
+            "icon": "https://logo.clearbit.com/www.coolelements.cn",
+            "url": "https://www.coolelements.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729587353586,
+            "title": "免费获取域和子域的 4 种方法 --- 4 Ways to Get a Domain and Subdomain for Free",
+            "icon": "https://logo.clearbit.com/domainwheel.com",
+            "url": "https://domainwheel.com/subdomain-for-free/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729587359008,
+            "title": "Get Free Domain Name, 2024 Review",
+            "icon": "https://logo.clearbit.com/www.getfreedomain.name",
+            "url": "https://www.getfreedomain.name/"
           }
         ]
       },
@@ -2468,10 +3196,73 @@
           },
           {
             "type": "link",
-            "addDate": 1723044165750,
-            "title": "2024年智慧中小学暑假教师研修，非秒过，每个视频多点几遍遍。不懂先看B站教程",
-            "icon": "https://logo.clearbit.com/greasyfork.org",
-            "url": "https://greasyfork.org/zh-CN/scripts/486386-2024%E5%B9%B4%E6%99%BA%E6%85%A7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%9A%91%E5%81%87%E6%95%99%E5%B8%88%E7%A0%94%E4%BF%AE-%E9%9D%9E%E7%A7%92%E8%BF%87-%E6%AF%8F%E4%B8%AA%E8%A7%86%E9%A2%91%E5%A4%9A%E7%82%B9%E5%87%A0%E9%81%8D%E9%81%8D-%E4%B8%8D%E6%87%82%E5%85%88%E7%9C%8Bb%E7%AB%99%E6%95%99%E7%A8%8B"
+            "addDate": 1723468578735,
+            "title": "Yfamily - 小火箭 ShadowRocket QuantumultX 圈X loon surge stash 模块 插件 重写 覆写 教程",
+            "icon": "https://logo.clearbit.com/whatshub.top",
+            "url": "https://whatshub.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723692206750,
+            "title": "cpanel.usite.pub/panel/index.php",
+            "icon": "https://logo.clearbit.com/cpanel.usite.pub",
+            "url": "http://cpanel.usite.pub/panel/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1723701155138,
+            "title": "VP Login",
+            "icon": "https://logo.clearbit.com/cpanel.usite.pub",
+            "url": "http://cpanel.usite.pub/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1723702476014,
+            "title": "Now Hosting - PHP虚拟主机专业服务公司 --- 나우호스팅 - PHP웹호스팅 전문 서비스 기업",
+            "icon": "https://logo.clearbit.com/nowhosting.kr",
+            "url": "https://nowhosting.kr/management/webhosting.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1723702480521,
+            "title": "NowHosting WordPress – 其他 WordPress 网站 --- 나우호스팅 워드프레스 – 다른 워드프레스 사이트",
+            "icon": "https://logo.clearbit.com/taolei.free.nowhosting.kr",
+            "url": "http://taolei.free.nowhosting.kr/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723703134588,
+            "title": "免费域名服务盘点 - Shiina's Bulog",
+            "icon": "https://logo.clearbit.com/blog.shiina.fun",
+            "url": "https://blog.shiina.fun/2023/12/12/%e5%85%8d%e8%b4%b9%e5%9f%9f%e5%90%8d%e6%9c%8d%e5%8a%a1%e7%9b%98%e7%82%b9/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723704487906,
+            "title": "Hello WordPress – 又一个 WordPress 站点",
+            "icon": "https://logo.clearbit.com/taolei.free.nowhosting.kr",
+            "url": "https://taolei.free.nowhosting.kr/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723704496450,
+            "title": "+821865340793 韩国临时手机号码 - SMSOnline",
+            "icon": "https://logo.clearbit.com/www.smsonline.cloud",
+            "url": "https://www.smsonline.cloud/zh/free_sms_number/+821865340793"
+          },
+          {
+            "type": "link",
+            "addDate": 1730194236005,
+            "title": "大机场 Official Mirror Site",
+            "icon": "https://logo.clearbit.com/bigairport-mirror.com",
+            "url": "https://bigairport-mirror.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731149269972,
+            "title": "hosts服务",
+            "icon": "https://logo.clearbit.com/hosts.trli.club",
+            "url": "https://hosts.trli.club/"
           }
         ]
       },
@@ -2667,8 +3458,36 @@
       {
         "type": "folder",
         "addDate": 1722095224662,
-        "title": "🛳️云盘",
+        "title": "🛳️邮盘",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1723468178579,
+            "title": "邮箱",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723468431621,
+                "title": "88完美邮箱",
+                "icon": "https://logo.clearbit.com/mail.88.com",
+                "url": "https://mail.88.com/mail/#/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1724904697103,
+                "title": "PissMail!!",
+                "icon": "https://logo.clearbit.com/pissmail.com",
+                "url": "https://pissmail.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724904716162,
+                "title": "Cock.li E-mail",
+                "icon": "https://logo.clearbit.com/cock.li",
+                "url": "https://cock.li/"
+              }
+            ]
+          },
           {
             "type": "link",
             "addDate": 1722922703214,
@@ -2941,8 +3760,42 @@
             "title": "LIUのBlog - 一個不務正業的設計師",
             "icon": "https://logo.clearbit.com/clotliu.com",
             "url": "https://clotliu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723473646267,
+            "title": "NAS | 锤子V君",
+            "icon": "https://logo.clearbit.com/www.diablool.com",
+            "url": "https://www.diablool.com/category/nas/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724072613243,
+            "title": "毒奶 - 欢迎使用代理访问本站。",
+            "icon": "https://logo.clearbit.com/limbopro.com",
+            "url": "https://limbopro.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724079451087,
+            "title": "使用 Compose 安装照片管理工具 - Immich | 一起玩 NAS!",
+            "icon": "https://logo.clearbit.com/wiki.slarker.me",
+            "url": "https://wiki.slarker.me/synology/immich_deploy.html"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1731399099531,
+        "title": "美丽化学",
+        "children": []
+      },
+      {
+        "type": "link",
+        "addDate": 1732082663113,
+        "title": "RK61 RGB 蓝牙双模键盘使用说明（说明书） - 哔哩哔哩",
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/opus/511141266172972500"
       }
     ]
   }
